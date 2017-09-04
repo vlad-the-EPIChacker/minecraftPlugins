@@ -1,8 +1,0 @@
-name: MyPlugin
-main: me.vladov.MyPlugin.MyPlugin
-version: 1.0
-description: >
-             Vladov's first plugin.
-commands:
-    SayHi:
-        description: returns hi in chat

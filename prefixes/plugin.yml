@@ -1,0 +1,5 @@
+name: prefixes
+version: 1.0.0
+description: This plugin adds prefixes to player's names
+author: vladov3000
+main: me.vladov.prefixes

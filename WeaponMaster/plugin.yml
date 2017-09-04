@@ -1,0 +1,8 @@
+name: NoBuildVladov
+main: me.vladov.WeaponMaster
+version: 1.0
+description: >
+             no-building
+commands:
+    ToggleBuildMode:
+        Toggles build mode

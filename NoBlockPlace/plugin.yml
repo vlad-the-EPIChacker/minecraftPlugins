@@ -1,0 +1,9 @@
+name: NoBlockPlace
+version: 1.1.0
+description: This plugin doesn't allow normal players to break blocks.
+author: vladov3000
+main: me.vladov.NoBlockPlace
+commands:
+    ToggleBuildMode:
+        description: toggles build mode
+        aliases: [tbm]
